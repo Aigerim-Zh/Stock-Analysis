@@ -295,10 +295,10 @@ As shown above, there are two VBA codes that were prepared for this analysis. [T
 
 ## Summary 
 ### Advantages of Refactoring Code
-- Refactoring can make the code more efficient (reduce its running time) and also increase its applicapibilty to larger datasets. 
+- Refactoring can make the code more efficient (i.e., uses less memory and reduces its running time) and also increases its applicapibilty to larger datasets. 
 - Refactoring makes the code cleaner and more readible, which makes errors detection easier. 
 ### Disadvantages of Refactoring Code
-- Given the fact that we already a running code and are trying to refactor it might open room for logical errors, i.e., it is important that it is refactored correctly. That is why it is a good practice to save the code before and after refactoring, as done in this project. 
+- Given the fact that we already have a running code and are trying to refactor it might open room for logical errors, i.e., it is important that it is refactored correctly. That is why it is a good practice to save the code before and after refactoring, as done in this project. 
 
 ### How Pros and Cons of Refactoring apply to the original VBA script in this project?
 - Refactoring our code helped us to increase its efficiency. 
