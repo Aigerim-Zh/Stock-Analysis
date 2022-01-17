@@ -37,8 +37,8 @@ There are two files in this repository with the same results. However, the code 
 
 - Yearly Return is calculated as as percentage change between the price at the beginning of the year and at the end of the year. If it is positive, this means it might be profitable to invest in this stock, also given that it was traded enough in that year. 
  
-### Stock Analysis Results 
-![2017](https://github.com/Aigerim-Zh/Stock-Analysis/blob/main/Green_Stocks_Dataset.xlsx)
+### Green Stock Analysis Results
+![2017](https://github.com/Aigerim-Zh/Stock-Analysis/blob/main/Resources/2017AnalysisResults.png)
 ![2018](https://github.com/Aigerim-Zh/Stock-Analysis/blob/main/Resources/2018AnalysisResults.png)
 
 In 2017, all stocks generated positive returns except for the TERP stock. 
