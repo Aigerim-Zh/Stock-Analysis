@@ -271,8 +271,8 @@ End Sub
 
 Finally, in the "All Stocks Analysis" worksheet, there are two buttons created for the end-user to run the analysis without having to run the code from the Developer tab. 
 
-- The "Run All Stock Analysis" button will run all the analysis performed [here](). 
-- The "Add Formatting" button will add the formatting we added [here](). 
+- The "Run All Stock Analysis" button will run all the analysis performed. 
+- The "Add Formatting" button will add the formatting.  
 - The "Clear the Worksheet" button will clean the worksheet. To clean the worksheet to analyze another year, the following subroutine can be used:
 
 ```
