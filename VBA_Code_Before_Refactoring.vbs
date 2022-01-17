@@ -18,7 +18,7 @@ Sub AllStocksAnalysis()
     
 '2. Initialize an array of all tickers.
 
-    Dim tickers(11) As String
+    Dim tickers(12) As String
 
         tickers(0) = "AY"
         tickers(1) = "CSIQ"
@@ -43,7 +43,6 @@ Sub AllStocksAnalysis()
     Sheets(yearValue).Activate
 
  '3c). Find the number of rows to loop over.
-    ' the number of rows for each ticker is the same (can be quickly verified with a pivot table)
     
      rowEnd = Cells(Rows.Count, "A").End(xlUp).Row
 
